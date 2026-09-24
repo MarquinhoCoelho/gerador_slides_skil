@@ -1,0 +1,12 @@
+{
+  "_instrucao": "Este arquivo é um alias de conveniência. Os tokens completos estão em tokens.json. Use o nome do tema no campo 'template' do roteiro.json.",
+  "_temas_disponiveis": [
+    "senai-tech-light",
+    "aws-oficial",
+    "dark",
+    "minimal",
+    "colorful",
+    "ocean"
+  ],
+  "_padrao": "senai-tech-light"
+}

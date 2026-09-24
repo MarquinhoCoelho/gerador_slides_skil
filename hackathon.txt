@@ -1,0 +1,108 @@
+Planejamento Hackathon
+Contextualização do Problema
+Ferramentas Hackathon disponibilizadas
+Critérios de Avaliação e Requisitos da Entrega
+Carga Horária
+Unidade Curricular/Competências Técnicas
+1
+
+Contextualização do Problema
+Uma software house apresenta alta rotatividade de colaboradores na área de desenvolvimento. A entrada frequente de novos profissionais exige constantes processos de capacitação, porém a empresa não possui um processo estruturado e padronizado para formação desses desenvolvedores.
+Grande parte do conhecimento necessário para atuação nos projetos está concentrada em profissionais mais experientes, que precisam interromper suas atividades para apoiar os novos integrantes. Isso aumenta o tempo de adaptação, reduz a produtividade das equipes e dificulta a continuidade dos projetos.
+Diante desse cenário, o desafio do Hackathon será desenvolver uma solução tecnológica capaz de melhorar o processo de onboarding e formação de novos desenvolvedores, tornando o aprendizado mais organizado, rápido, acessível e menos dependente do acompanhamento direto de profissionais experientes.
+A solução deverá considerar que um novo desenvolvedor precisa compreender rapidamente as tecnologias, processos, padrões e conhecimentos necessários para começar a contribuir nos projetos da empresa.
+
+
+Desafio
+Desenvolver uma ferramenta voltada à melhoria contínua de desenvolvedores em formação, capaz de mapear suas competências atuais, identificar os próximos passos de aprendizado e direcionar a melhor forma de desenvolvê-los. 
+
+Ferramentas Hackathon disponibilizadas
+Desenvolvimento: Visual Studio Code, GitHub, linguagens e frameworks já conhecidos pelos alunos e banco de dados quando necessário.
+Prototipação: Figma e Excalidraw.
+Organização: Trello, Miro ou ferramenta equivalente, mas sem exigir uso.
+Inteligência Artificial: Apoio em pesquisa, código, documentação e ideação, com responsabilidade da equipe pela validação.
+Material fornecido pela organização: perfil de um desenvolvedor recém-contratado, stack tecnológica da empresa, competências esperadas, dificuldades atuais do onboarding, fluxo atual de treinamento e exemplos de documentação interna.
+
+Requisitos da Entrega
+
+Etapa 1: Brainstorming e Definição do Problema.
+Sem entrega.
+Etapa 2: Idealização e Prototipagem em Wireframe (Ideação).
+Link do protótipo no excalidraw.
+Etapa 3: Maturação da Ideia, Pitch em Slides e Validação Técnica com uma apresentação de 5 minutos explicando o projeto.
+Link para apresentação de slides e apresentação.
+Etapa 4: Desenvolvimento do Protótipo de alta fidelidade (MVP) (TRL3).
+Link do protótipo. 
+
+Unidade Curricular/Competências Técnicas
+Desenvolvimento de Sistemas
+Capacidades técnicas: 
+Reconhecer requisitos de qualidade, integridade, usabilidade e segurança da informação
+Definir tecnologias de acordo com os requisitos não funcionais
+Selecionar linguagem de programação de acordo com os requisitos
+Aplicar linguagem de programação por meio de APIs, bibliotecas e frameworks na construção de rotinas de software
+Integrar sistemas multiplataformas por meio da linguagem de programação
+Aplicar metodologia de desenvolvimento de acordo com o escopo do projeto
+Definir cronograma de atividades, de acordo com a metodologia
+Selecionar ferramentas de gerenciamento na aplicação da metodologia
+
+Unidade Curricular/Competências Técnicas
+Modelagem de Sistemas
+Capacidades técnicas: - Interpretar requisitos levantados para desenvolvimento de sistemas - Identificar requisitos funcionais e não funcionais para desenvolvimento de sistemas - Reconhecer sistemas de interface para usuários (UX) - Integrar sistemas orientados para a conectividade e interoperabilidade - Identificar documentação técnica aplicada ao escopo do projeto.
+
+Unidade Curricular/Competências Técnicas
+
+Programação de Aplicativos
+Capacidades técnicas: - Reconhecer ferramentas para o desenvolvimento de atividades (repositório, controle de versão) - Instalar ferramentas de acordo com requisitos de hardware, software e parâmetros de configuração - Aplicar métodos e técnicas de programação - Empregar comentários para documentação do código-fonte - Identificar erros de acordo com o requisito do programa - Integrar banco de dados por meio da linguagem de programação
+
+Legenda
+Capacidades avaliadas Desenvolvimento de Sistemas 
+DS01 - Reconhecer requisitos de qualidade, integridade, usabilidade e segurança da informação 
+DS02 - Definir tecnologias de acordo com os requisitos não funcionais 
+DS03 - Selecionar linguagem de programação de acordo com os requisitos 
+DS04 - Aplicar linguagem de programação por meio de APIs, bibliotecas e frameworks na construção de rotinas de software 
+DS05 - Integrar sistemas multiplataformas por meio da linguagem de programação 
+DS06 - Aplicar metodologia de desenvolvimento de acordo com o escopo do projeto 
+DS07 - Definir cronograma de atividades, de acordo com a metodologia 
+DS08 - Selecionar ferramentas de gerenciamento na aplicação da metodologia 
+DS09 - Demonstrar espírito colaborativo em atividades coletivas (socioemocional) 
+DS10 - Situar o papel e a importância do seu trabalho no contexto da organização (socioemocional) 
+
+Legenda
+Modelagem de Sistemas 
+MS01 - Interpretar requisitos levantados para desenvolvimento de sistemas 
+MS02 - Identificar requisitos funcionais e não funcionais para desenvolvimento de sistemas 
+MS03 - Reconhecer sistemas de interface para usuários (UX) 
+MS04 - Integrar sistemas orientados para a conectividade e interoperabilidade 
+MS05 - Identificar documentação técnica aplicada ao escopo do projeto 
+Programação de Aplicativos 
+PA01 - Reconhecer ferramentas para o desenvolvimento de atividades (repositório, controle de versão) PA02 - Instalar ferramentas de acordo com requisitos de hardware, software e parâmetros de configuração 
+PA03 - Aplicar métodos e técnicas de programação 
+PA04 - Empregar comentários para documentação do código-fonte 
+PA05 - Identificar erros de acordo com o requisito do programa 
+PA06 - Integrar banco de dados por meio da linguagem de programação
+
+Critérios de Avaliação
+
+CA01 - A equipe apresenta os requisitos não funcionais e justifica as tecnologias escolhidas a partir deles. (DS02, DS03) 
+CA02 - O sistema consome uma API de IA que gera o resultado principal do desafio. (DS04) 
+CA03 - Front-end, back-end e serviço de IA se comunicam corretamente, e o fluxo principal funciona de ponta a ponta. (DS05) 
+CA04 - Nenhuma chave de API ou senha aparece no repositório, e existe um arquivo .env.example. (DS01) 
+CA05 - A equipe cumpre as etapas dentro dos prazos e apresenta a divisão de tarefas em uma ferramenta de gestão. (DS06, DS07, DS08) 
+CA06 - Todos os integrantes explicam na banca a parte da solução que desenvolveram. (DS09, DS10)
+CA07 - A equipe apresenta uma lista de requisitos funcionais e não funcionais coerente com o desafio. (MS01, MS02)
+CA08 - O Excalidraw contém o fluxo completo de telas, com a navegação entre elas indicada. (MS03)
+
+Critérios de Avaliação
+
+CA09 - O Excalidraw contém um diagrama de arquitetura com os componentes e as conexões entre eles. (MS04) 
+CA10 - O escopo do MVP está documentado, deixando claro o que foi e o que não foi implementado. (MS05)
+CA11 - O código está versionado no GitHub com commits distribuídos e contribuição dos 4 integrantes. (PA01) 
+CA12 - O README contém as instruções de instalação e execução, e o projeto roda seguindo apenas essas instruções. (PA02) 
+CA13 - O código está organizado em módulos, segue um padrão de nomenclatura e as funções principais têm comentários. (PA03, PA04) 
+CA14 - O sistema trata erros sem travar e exibe uma mensagem ao usuário. (PA05) 
+CA15 - Os dados principais ficam persistidos em banco de dados. (PA06)
+
+Carga Horária
+
+8 horas;
